@@ -8,3 +8,11 @@
 
 ## 0x33 感谢大佬们提供的服务
 > ### **项目使用签名服务来自 [vsdouyin](https://github.com/vsdouyin/douyin-service)**
+
+##  0x47 学习交流
+
+微信公众号:
+![gzh](qrcode.jpg)
+
+qq群：
+![qq](qq.png)
